@@ -1,3 +1,4 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/bUwPL5VD"))()
-wait(10)
+wait(180)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual", true))()
+print("WAIT! FOR THE SCRIPT TO LOAD IT TAKES 3 MINS IF U DONT WANT TO GET BANNED DO NOT SPAUN SEEDS OR PETS IF THE SCRIPT DIDNT LOAD PERFECTLY YOU MAY BE BANNED")
